@@ -41,7 +41,7 @@ export default function Login({ navigation }: Props) {
 
     if (username === 'admin' && password === '1234') {
       dispatch(
-        login({ name: 'João da Silva', email: 'joaodasilva@gmail.com' })
+        login({ name: 'John Wick', email: 'john@gmail.com' })
       );
       navigation.replace('Main');
     } else {
