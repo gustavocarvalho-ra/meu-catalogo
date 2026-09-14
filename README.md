@@ -122,3 +122,25 @@ Configurações — dados do usuário e logout
 <img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/bca5f7d5-d1aa-4f1b-a3a6-11b769720405" /> <img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/5daf12d1-fe1b-4170-8572-ec7dadac0c89" />
 
 
+## 🎥 Vídeo Pitch
+Assista à apresentação do projeto no vídeo abaixo:
+
+### https://www.youtube.com/watch?v=I397mnBmbIU
+
+
+## 📄 Documentação Adicional
+
+[textoReflexivo.pdf](https://github.com/user-attachments/files/32208910/textoReflexivo.pdf)
+📘 Relatório Teórico (PDF)
+
+[printDasTelas.pdf](https://github.com/user-attachments/files/32208907/printDasTelas.pdf)
+🖼️ PDF com Prints das Telas
+
+
+## 📝 Licença
+Este projeto foi desenvolvido para fins acadêmicos como parte da disciplina de Mobile Development. Sinta-se à vontade para estudar e se inspirar no código.
+
+## 🙏 Agradecimentos
+- Expo pela plataforma incrível
+- DummyJSON pela API pública de teste
+- React Navigation pela documentação clara
