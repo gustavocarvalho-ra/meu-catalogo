@@ -98,3 +98,49 @@ GET /products/{id} ->                     	Retorna detalhes de um produto espec�
 GET https://dummyjson.com/products/category/mens-shirts
 GET https://dummyjson.com/products/1
 ```
+
+## 📸 Prints das Telas
+
+Login — validação de campos e simulação de autenticação
+
+<img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/4b376d9c-41bb-4114-90d4-121d1aa18c34" />
+
+
+Lista de Produtos — abas Masculino/Feminino com dados da API
+
+<img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/e9791164-39a5-4fd5-847b-d5770e3afcdd" /> <img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/ab067f8a-05b5-462f-a92e-18e2839a3171" />
+
+
+Detalhes do Produto — imagem, descrição, preço e desconto
+
+<img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/1b8723e1-82de-42d2-96ad-8d6e88cfc7d7" />
+
+
+
+Configurações — dados do usuário e logout
+
+<img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/bca5f7d5-d1aa-4f1b-a3a6-11b769720405" /> <img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/5daf12d1-fe1b-4170-8572-ec7dadac0c89" />
+
+
+## 🎥 Vídeo Pitch
+Assista à apresentação do projeto no vídeo abaixo:
+
+### https://www.youtube.com/watch?v=I397mnBmbIU
+
+
+## 📄 Documentação Adicional
+
+[textoReflexivo.pdf](https://github.com/user-attachments/files/32208910/textoReflexivo.pdf)
+📘 Relatório Teórico (PDF)
+
+[printDasTelas.pdf](https://github.com/user-attachments/files/32208907/printDasTelas.pdf)
+🖼️ PDF com Prints das Telas
+
+
+## 📝 Licença
+Este projeto foi desenvolvido para fins acadêmicos como parte da disciplina de Mobile Development. Sinta-se à vontade para estudar e se inspirar no código.
+
+## 🙏 Agradecimentos
+- Expo pela plataforma incrível
+- DummyJSON pela API pública de teste
+- React Navigation pela documentação clara
